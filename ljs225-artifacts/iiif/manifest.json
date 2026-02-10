@@ -20,7 +20,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0032.tif",
+								"id": "/images/0204_0032.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -113,7 +113,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0033.tif",
+								"id": "/images/0204_0033.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -206,7 +206,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0034.tif",
+								"id": "/images/0204_0034.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -299,7 +299,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0035.tif",
+								"id": "/images/0204_0035.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -392,7 +392,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0036.tif",
+								"id": "/images/0204_0036.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -485,7 +485,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0037.tif",
+								"id": "/images/0204_0037.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -578,7 +578,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0038.tif",
+								"id": "/images/0204_0038.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -671,7 +671,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0039.tif",
+								"id": "/images/0204_0039.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
@@ -764,7 +764,7 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://openn.library.upenn.edu/Data/0001/ljs225/data/master/0204_0040.tif",
+								"id": "/images/0204_0040.tif",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 5884,
