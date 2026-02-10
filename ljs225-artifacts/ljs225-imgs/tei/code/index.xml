@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="code">
         <body>
-          <pb n="15r" facs="fol15r"/>
+          <pb n="15r" facs="#fol15r"/>
               <p>la terra quale he asai piu potente de legente fo
                 <lb/>restiere prendera partito.  Aricordo reverete
                 <lb/>mente ala prelibata S. v. lecose como lepassa
@@ -26,7 +26,7 @@
                 <lb/><hi n="superfl">per questa suma</hi> como continuamente <hi n="superfl">ainost<ex>ri</ex></hi>
                 <lb/><hi n="superfl">bixogni haveti subvenuto</hi> et per mie altre gia lo<ex>n</ex>
               </p>
-          <pb n="15v" facs="fol15v"/>
+          <pb n="15v" facs="#fol15v"/>
           <p>go tempo ho aricordato <hi n="superfl">o di provedere dal canto</hi>
               <lb/><hi n="superfl">dila di fare condito zoane qualche bona</hi> co<ex>n</ex>
               <lb/>posicione con gli <choice><seg type="original">sani</seg> <seg type="alter">nemici</seg></choice> <hi n="superfl">consigli vostri</hi> info<ex>r</ex>ma 
@@ -52,7 +52,7 @@
               <lb/>dicando non volere <hi n="superfl">piu vivere inquesto mo<ex>n</ex></hi>
               <lb/><hi n="superfl">do se suo marito e gliatri sinisse intal prixo<ex>n</ex>ia</hi>
           </p>
-          <pb n="16r" facs="fol16r"/>
+          <pb n="16r" facs="#fol16r"/>
           <p>essere sacomanati prigioni <hi n="superfl">et poi morire per</hi>
               <lb/><hi n="superfl">mancamento de dinari essendo si richi deposes</hi>
               <lb/><hi n="superfl">sione dicando etiam dio et che manca altro sal</hi>
@@ -78,7 +78,7 @@
               <lb/><hi n="superfl">glia et hemestato</hi> <choice><seg type="original">tanto</seg> <seg type="alter">vinti</seg></choice> <choice><seg type="original">grave</seg> <seg type="alter">deditione</seg></choice> che <choice><seg type="original">pregai</seg> <seg type="alter">secreti</seg></choice> <hi n="superfl">con</hi>
               <lb/><hi n="superfl">gliochi</hi> <choice><seg type="original">bagnati</seg> <seg type="alter">reverentemente</seg></choice> per mia altra et scripsi ala presta<ex>n</ex>
           </p>
-          <pb n="16v" facs="fol16v"/>
+          <pb n="16v" facs="#fol16v"/>
           <p>tia <hi n="superfl">v. me volesse mandare atogliere de quie servia<ex>n</ex></hi>
               <lb/><hi n="superfl">do</hi> q<ex>uan</ex>to me achadea <hi n="superfl">ad hora simelmente</hi> <choice><seg type="original">p<ex>r</ex>iego</seg> <seg type="alter">secreto</seg></choice>
               <lb/><hi n="superfl">et supplico</hi> ad quella me vogli havere per ricoma<ex>n</ex>
@@ -104,7 +104,7 @@
               <lb/>et hora per li <hi n="superfl">sopra diti mancamentime stimo</hi>
               <lb/><hi n="superfl">la et de le pene soe mesa</hi> <choice><seg type="original">aricordo</seg> <seg type="alter">monicione</seg></choice> at dice sai
           </p>
-          <pb n="17r" facs="fol17r"/>
+          <pb n="17r" facs="#fol17r"/>
           <p>como he <choice><seg type="original">malua</seg> <seg type="alter">polvere</seg></choice> <hi n="superfl">ifati nostri in questo tempo</hi>
               <lb/><hi n="superfl">et se</hi> <choice><seg type="original">presti</seg> <seg type="alter">saitamenti</seg></choice> non usemo de quie che piu non pos
               <lb/>siamo fare <hi n="superfl">penitentia non havendo altra spera<ex>n</ex></hi>
@@ -130,7 +130,7 @@
               <lb/>humelemente ala gratia soa sempre me
               <lb/>aricomando
           </p>
-          <pb n="17v" facs="fol17v"/>
+          <pb n="17v" facs="#fol17v"/>
           <p>Ali<ex>a</ex>e litter<ex>a</ex>e simultand<ex>a</ex>e emanand<ex>a</ex>e q(ue) e
               <lb/>locis socio<ex>rum</ex> vel amico<ex>rum</ex> 
               <lb/>Havendo fata questa pace et liga univ<ex>er</ex> 
@@ -156,7 +156,7 @@
               <lb/>ma sapientia .v. intendeti per nove<ex>re</ex>  a tediare
               <lb/>piu in longo lezere. et conchiudo che altuto.
           </p>
-          <pb n="18r" facs="fol18r"/>
+          <pb n="18r" facs="#fol18r"/>
           <p>se voria fare che quisti tali et tuti altri sol
               <lb/>dati sono de reputatione fosseno prove
               <lb/>duti non dico con le conducte usate ma
@@ -182,7 +182,7 @@
               <lb/><hi n="superfl">lea</hi> che qui gli sono <choice><seg type="original">faticati</seg><seg type="alter">cassi</seg></choice> <hi n="superfl">per nui da gran</hi>
               <lb/><hi n="superfl">tempo inqua fosseno et da voi et noi</hi> <choice><seg type="original">metuti</seg><seg type="alter">piedi</seg></choice>
           </p>
-          <pb n="18v" facs="fol18v"/>
+          <pb n="18v" facs="#fol18v"/>
           <p><hi n="superfl">in qualche buono exercicio como e el bel parla</hi>
               <lb/><hi n="superfl">tore pietro factore el</hi> <choice><seg type="original">fante</seg><seg type="alter">conte</seg></choice> <choice><seg type="original">novelo</seg><seg type="alter">Iacomo pico</seg></choice> <choice><seg type="original">el priete</seg><seg type="alter">Guido rongone</seg></choice> e
               <lb/>infiniti altri gli quali hano le <choice><seg type="original">famiglie</seg><seg type="alter">condue</seg></choice> gran
@@ -208,7 +208,7 @@
               <lb/>como piu volte acadete <hi n="superfl">ade</hi> <choice><seg type="original">bixogno</seg><seg type="alter">Roma</seg></choice> <hi n="superfl"> <expan>et</expan> che <expan>et</expan></hi> havento
                 <lb/>in <choice><seg type="original">grave</seg><seg type="alter">deditione</seg></choice> <hi n="superfl">carico molte cose sopra de nui ne faciama</hi>
               </p>
-          <pb n="19r" facs="fol19r"/>
+          <pb n="19r" facs="#fol19r"/>
           <p><hi n="superfl">parte a loro etiandio quali hano substenuta</hi> tu 
               <lb/>ta <hi n="superfl">sopra</hi> <choice><seg type="original">nominata</seg><seg type="alter">Italia</seg></choice> <hi n="superfl">fatica</hi> la sio molte atre ragio
               <lb/>ne quale per suma sapientia .v. intendeti per no<ex>stre</ex>
