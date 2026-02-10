@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/manifest.json",
+	"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -26,7 +26,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15r"
 						}
 					]
 				}
@@ -41,16 +41,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -60,7 +60,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol15v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol15v"
 						}
 					]
 				}
@@ -75,16 +75,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -94,7 +94,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16r"
 						}
 					]
 				}
@@ -109,16 +109,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -128,7 +128,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol16v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol16v"
 						}
 					]
 				}
@@ -143,16 +143,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -162,7 +162,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17r"
 						}
 					]
 				}
@@ -177,16 +177,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -196,7 +196,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol17v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol17v"
 						}
 					]
 				}
@@ -211,16 +211,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -230,7 +230,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18r"
 						}
 					]
 				}
@@ -245,16 +245,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -264,7 +264,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol18v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol18v"
 						}
 					]
 				}
@@ -279,16 +279,16 @@
 			"annotations": []
 		},
 		{
-			"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol19r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol19r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol19r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol19r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol19r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol19r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -298,7 +298,7 @@
 								"height": 5884,
 								"width": 4012
 							},
-							"target": "cynthiaheider.github.io/ljs225-11ty/ljs225-imgs/iiif/canvas/fol19r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/iiif/canvas/fol19r"
 						}
 					]
 				}
@@ -315,7 +315,7 @@
 	],
 	"label": {
 		"en": [
-			"ljs225-imgs"
+			"ljs225-artifacts"
 		]
 	},
 	"seeAlso": [
