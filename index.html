@@ -1,4 +1,22 @@
 <!DOCTYPE html>
-This is a web page!
+ 
+<body>
+    <div id="ec"></div>
+</body>
 
-Things go here!
+ <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd"></script>
+
+ <script type="text/javascript">
+
+     EditionCrafter.viewer({
+         id: 'ec',
+         documentName: 'LJS 225',
+         iiifManifest='https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/manifest.json',
+         transcriptionTypes: {
+           originaltext: 'Original text',
+           decodedtext: 'Decoded text',
+         }
+     });
+
+ </script>
+</html>
