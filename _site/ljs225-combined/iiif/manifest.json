@@ -3,30 +3,30 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/manifest.json",
+	"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0032_web.jpg",
+								"id": "/images/0204_0032_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r"
 						}
 					]
 				}
@@ -40,86 +40,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol15r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol15r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol15r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol15r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol15r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol15r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol15r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol15r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15r"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0033_web.jpg",
+								"id": "/images/0204_0033_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v"
 						}
 					]
 				}
@@ -133,86 +133,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol15v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol15v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol15v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol15v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol15v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol15v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol15v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol15v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol15v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol15v"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0034_web.jpg",
+								"id": "/images/0204_0034_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r"
 						}
 					]
 				}
@@ -226,86 +226,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol16r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol16r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol16r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol16r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol16r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol16r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol16r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol16r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16r"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0035_web.jpg",
+								"id": "/images/0204_0035_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v"
 						}
 					]
 				}
@@ -319,86 +319,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol16v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol16v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol16v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol16v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol16v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol16v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol16v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol16v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol16v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol16v"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0036_web.jpg",
+								"id": "/images/0204_0036_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r"
 						}
 					]
 				}
@@ -412,86 +412,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol17r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol17r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol17r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol17r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol17r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol17r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol17r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol17r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17r"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0037_web.jpg",
+								"id": "/images/0204_0037_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v"
 						}
 					]
 				}
@@ -505,86 +505,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol17v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol17v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol17v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol17v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol17v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol17v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol17v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol17v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol17v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol17v"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0038_web.jpg",
+								"id": "/images/0204_0038_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r"
 						}
 					]
 				}
@@ -598,86 +598,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol18r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol18r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol18r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol18r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol18r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol18r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol18r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol18r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18r"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0039_web.jpg",
+								"id": "/images/0204_0039_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v"
 						}
 					]
 				}
@@ -691,86 +691,86 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol18v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol18v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol18v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol18v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol18v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol18v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol18v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol18v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol18v"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol18v"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r",
+			"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r/annotationpage/0",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r/annotationpage/0/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-11ty/assets/images/0204_0040_web.jpg",
+								"id": "/images/0204_0040_web.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 1800,
 								"width": 1227
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r"
 						}
 					]
 				}
@@ -784,60 +784,60 @@
 			},
 			"annotations": [
 				{
-					"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r/annotationPage/1",
+					"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/0",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/originaltext/fol19r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/originaltext/fol19r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/1",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/tei/decodedtext/fol19r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/tei/decodedtext/fol19r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/2",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/originaltext/fol19r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/originaltext/fol19r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/3",
+							"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-combined/html/decodedtext/fol19r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/html/decodedtext/fol19r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://cynthiaheider.github.io/ljs225-combined/iiif/canvas/fol19r"
+							"target": "https://cynthiaheider.github.io/ljs225-11ty/ljs225-combined/iiif/canvas/fol19r"
 						}
 					]
 				}
@@ -846,7 +846,7 @@
 	],
 	"label": {
 		"en": [
-			"ljs225-combined"
+			"/ljs225-11ty/ljs225-combined"
 		]
 	},
 	"seeAlso": [
