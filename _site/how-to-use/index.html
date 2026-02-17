@@ -1,0 +1,51 @@
+<h1>How to Use</h1>
+<h2>Create the images TEI document</h2>
+<h3>If you already have a IIIF manifest</h3>
+<ul>
+<li>tell Edition Crafter to make the TEI document based on the manifest with <code>editioncrafter iiif -i &lt;iiif_url&gt; -o &lt;output.xml&gt;</code></li>
+</ul>
+<h3>If you don't have a manifest and want to make the TEI document from a folder of images</h3>
+<ul>
+<li>gather the images together and publish them via GitHub Pages or whatever other web host you're using</li>
+<li>create a CSV with three columns: url, label, and xml_id</li>
+<li>populate the url column with the url the images will live at when they are published/hosted</li>
+<li>the label column is what you want the page named</li>
+<li>xml_id is the way you'll match up the XML file texts with their images; the xml_id you create for each image will then be inserted into the TEI for each page following <code>&lt;pb facs=&quot;#[the page's xml_id]&gt;</code></li>
+<li>direct Edition Crafter to make the TEI document by directing it to the CSV you created with this command: <code>editioncrafter images -i &lt;images.csv&gt; -o &lt;output.xml&gt;</code></li>
+</ul>
+<h2>Combine all your stuff into one XML file to process</h2>
+<ul>
+<li>in the XML file you just created above, paste or type in the contents of your TEI files within the <code>&lt;text&gt;</code> tags. There can be multiple texts! Give them unique <code>xml:id</code> identifiers so they can be called up separately in the viewer</li>
+<li>also paste in your <code>&lt;teiHeader&gt;</code> info if you have it</li>
+</ul>
+<h2>Create the IIIF manifest, HTML files, and TEI-encoded XML files</h2>
+<ul>
+<li>tell Edition Crafter to process your stuff with <code>editioncrafter process -i &lt;tei_file&gt; -o &lt;output_path&gt; -u &lt;base_url&gt;</code></li>
+</ul>
+<h2>Make the files appear in the Edition Crafter viewer</h2>
+<ul>
+<li>add the following script to a page that you want the viewer and objects to display on:</li>
+</ul>
+<pre><code> &lt;div id=&quot;ec&quot;&gt;&lt;/div&gt;
+
+ &lt;script type=&quot;text/javascript&quot; src=&quot;https://www.unpkg.com/@cu-mkp/editioncrafter-umd&quot; &gt;&lt;/script&gt;
+
+ &lt;script type=&quot;text/javascript&quot;&gt;
+
+     EditionCrafter.viewer({
+         id: 'ec',
+         documentName: 'BnF Ms. Fr. 640',
+         iiifManifest:'https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/iiif/manifest.json',
+         transcriptionTypes: {
+           tc: 'Diplomatic (FR)',
+           tcn: 'Normalized (FR)',
+           tl: 'Translation (EN)'
+         }
+     });
+
+ &lt;/script&gt;
+</code></pre>
+<ul>
+<li>sub in the url of your manifest after <code>iiifManifest</code></li>
+<li><code>transcriptionTypes</code> is determined by whatever <code>xml:id</code> values you assigned to the different texts in your generated XML file</li>
+</ul>
