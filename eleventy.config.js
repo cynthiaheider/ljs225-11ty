@@ -1,4 +1,4 @@
 export default function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("editioncrafter.css");
-  eleventyConfig.addPassthroughCopy("editioncrafter.css.map");
+  eleventyConfig.addPassthroughCopy("assets/images");
+  eleventyConfig.addPassthroughCopy("ljs225-combined");
 };
