@@ -54,7 +54,7 @@
       </profileDesc>
    </teiHeader>
 
-      <facsimile >
+      <facsimile>
           <surface xml:id="fol15r" ulx="0" uly="0" lrx="1227" lry="1800">
             <label>Page 15 recto</label>
             <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/ljs225-artifacts/images/0204_0032_web.jpg" />
