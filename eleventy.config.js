@@ -1,4 +1,4 @@
 export default function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("assets/images");
+  eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("ljs225-combined");
 };
