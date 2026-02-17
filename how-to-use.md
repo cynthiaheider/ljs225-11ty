@@ -42,5 +42,6 @@
 
  </script>
 ```
+- make sure this script is **after** the ```</body>``` tag, or it will result in an error in the browser
 - sub in the url of your manifest after ```iiifManifest```
 - ```transcriptionTypes``` is determined by whatever ```xml:id``` values you assigned to the different texts in your generated XML file
