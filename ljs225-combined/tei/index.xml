@@ -57,39 +57,39 @@
       <facsimile>
                <surface xml:id="fol15r" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 15 recto</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0032_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0032_web.jpg" />
                </surface>
                <surface xml:id="fol15v" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 15 verso</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0033_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0033_web.jpg" />
                </surface>
                <surface xml:id="fol16r" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 16 recto</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0034_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0034_web.jpg" />
                </surface>
                <surface xml:id="fol16v" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 16 verso</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0035_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0035_web.jpg" />
                </surface>
                <surface xml:id="fol17r" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 17 recto</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0036_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0036_web.jpg" />
                </surface>
                <surface xml:id="fol17v" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 17 verso</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0037_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0037_web.jpg" />
                </surface>
                <surface xml:id="fol18r" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 18 recto</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0038_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0038_web.jpg" />
                </surface>
                <surface xml:id="fol18v" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 18 verso</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0039_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0039_web.jpg" />
                </surface>
                <surface xml:id="fol19r" ulx="0" uly="0" lrx="1227" lry="1800">
                   <label>Page 19 recto</label>
-                  <graphic mimeType="image/jpeg" url="/images/0204_0040_web.jpg" />
+                  <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-11ty/images/0204_0040_web.jpg" />
                </surface>
 
       </facsimile>
